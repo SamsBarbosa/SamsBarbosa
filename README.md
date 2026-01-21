@@ -2,4 +2,4 @@ Hi, I'm **Samara**!
 
 I'm learning **programming** little by little!
 
-**_learning is everything_**
+**_learning is everything!_**
